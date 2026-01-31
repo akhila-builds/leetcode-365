@@ -13,7 +13,6 @@ class Solution {
                 if(ch > target && ch < res)res = ch;
             }
         }
-
         return res;
     }
 }
