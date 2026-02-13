@@ -76,7 +76,7 @@ class Solution {
                 first.put(state, i);
             }
         }
-    
+   
         return max_len;
     }
 }
